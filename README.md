@@ -71,8 +71,13 @@ The work explores real-world datasets including global health statistics and mus
   Highlights relationships between health indicators  
 
 - 📊 **Interactive Dashboard**  
-  Combines all visuals with filters for dynamic exploration  
+  Combines all visuals with filters for dynamic exploration
+  
+---
 
+## 📈 Dashboards
+
+[Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmJlYThjYTYtYjgxYS00MWQxLTg4NzAtNDlhMDA3OGM0NTcxIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="625" height="356" alt="image" src="https://github.com/user-attachments/assets/87d41a86-0472-4879-ab05-591d97b7745f" />
 <img width="627" height="340" alt="image" src="https://github.com/user-attachments/assets/a65314be-810c-482e-b4ac-c0e38b49c5a3" />
