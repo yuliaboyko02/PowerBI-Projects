@@ -1,4 +1,4 @@
-# 📊 Data Visualisation Project (Power BI & Tableau)
+# 📊 Power BI Data Visualisation Project
 
 ## 📌 Overview
 This project was completed during **Week 2 of a Data Technician Bootcamp**, focusing on building interactive dashboards and visual analytics using **Power BI** and **Tableau**.
@@ -16,19 +16,6 @@ The work explores real-world datasets including global health statistics and mus
 - Data modelling fundamentals
 - Creating calculations using **DAX**
 - Publishing and sharing reports
-
----
-
-### 🟦 Tableau
-- Creating visualisations:
-  - Bar charts
-  - Line charts
-  - Pie charts
-  - Scatter plots  
-- Building interactive dashboards
-- Applying filters (including Top N and dropdown filters)
-- Sorting and analysing trends over time
-- Data storytelling and insight presentation  
 
 ---
 
